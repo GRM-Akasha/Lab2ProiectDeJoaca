@@ -1,2 +1,5 @@
-# Lab2ProiectDeJoaca
-ne jucam Ampreuna
+# PIP PROIECT
+
+this is a playground for the upcoming team project for university
+
+
